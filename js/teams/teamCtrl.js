@@ -35,6 +35,6 @@ app.controller('teamCtrl', function ($scope, $stateParams, teamService, teamData
         })
     }
 
-    console.log($scope.teamData);
+    
 
 });
